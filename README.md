@@ -14,5 +14,4 @@ This is the wonderful Mary
 <p> Hi! Thanks for visiting my site! I am a freshman at the University of Texas at Austin. I grew up in Austin, Texas and I am glad I get to go to college here. My favorite things to do include spending time with friends and family, watching movies, and cooking. I made this site from some super confusing code that I learned about in my MIS class. The class is fun and interesting and I am learning a lot. <br /><br /></p>
 </body>
 <hr />
-</body>
 </html>
