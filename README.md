@@ -10,9 +10,10 @@ This is the wonderful Mary
 <p style="text-align: center;"><a href="https://www.netflix.com/browse">Click Here</a> to go to my favorite site</p>
 <h1 style="text-align: center;">My name is Mary</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
-<body bgcolor = "LightSkyBlue ”>
+<body bgcolor = "LightSkyBlue">
 <p><strong>About Me</strong></p>
-<p> Hi! Thanks for visiting my site! I am a freshman at the University of Texas at Austin. I grew up in Austin, Texas and I am glad I get to go to college here. My favorite things to do include spending time with friends and family, watching movies, and cooking. I made this site from some super confusing code that I learned about in my MIS class. The class is fun and interesting and I am learning a lot. <br /><br /></p>
+<p>Hi! My name is Mary. I am a freshman at the University of Texas and I made this website for my MIS class. When I am not in class I enjoy spending time with friends and family and trying new restaurants. My favorite restaurants in Austin includes Matt’s El Rancho and Clark’s Oyster Bar. I hope you click the link to my favorite site, Netflix and find something to watch over the summer that is fast approaching us! I suggest The Office, New Girl, and Gossip Girl to get you started. Enjoy my site. Thanks for visiting! <br /><br /></p>
 </body>
 <hr />
+</body>
 </html>
