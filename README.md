@@ -6,7 +6,7 @@ This is the wonderful Mary
 <h1>Hello World</h1>
 <p>I'm wonderful Mary now on Github.</p>
 <p>&nbsp;</p>
-<center><img src="maryfranceskocureksitting" width="265" height="266" align="BOTTOM" /></center><hr />
+<center><img src="MaryFrancesKocurekSitting.jpgmmm.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 <p style="text-align: center;"><a href="https://www.netflix.com/browse">Click Here</a> to go to my favorite site</p>
 <h1 style="text-align: center;">My name is Mary</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
