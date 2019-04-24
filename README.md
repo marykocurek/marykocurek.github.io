@@ -19,7 +19,7 @@ This is the wonderful Mary
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "Orange">
+<body bgcolor = "Aquamarine">
   
 <p><strong>About Me</strong></p>
   
