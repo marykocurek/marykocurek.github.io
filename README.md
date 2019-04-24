@@ -3,7 +3,7 @@ This is the wonderful Mary
 
 <html>
   
-<body bgcolor = "Aquamarine">
+<body>
   
 <h1>Hello World</h1>
 
@@ -19,13 +19,13 @@ This is the wonderful Mary
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-//<body bgcolor = "Aquamarine">
+<body bgcolor = "Aquamarine">
   
 <p><strong>About Me</strong></p>
   
 <p>Hi! My name is Mary. I am a freshman at the University of Texas and I made this website for my MIS class. When I am not in class I enjoy spending time with friends and family and trying new restaurants. My favorite restaurants in Austin include Matt’s El Rancho and Z Tejas. I hope you click the link to my favorite site, Netflix and find something to watch over the summer that is fast approaching us! I suggest watching The Office and New Girl to get you started. Enjoy my site. Thanks for visiting! <br /><br /></p>
 
-//</body>
+</body>
 
 <hr />
 
